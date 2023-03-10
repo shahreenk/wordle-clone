@@ -109,6 +109,12 @@ async function init() {
         <div class="char-6">S</div>
         <div class="char-7">E</div>
       `
+      setTimeout(function() {
+        resultModal.innerHTML = `
+          <div class="reveal-word">The word was ${word}</div>
+        `
+      }, 2000)
+
       done = true;
     }
 
