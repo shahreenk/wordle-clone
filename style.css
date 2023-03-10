@@ -140,9 +140,9 @@ info-bar {
 .result-modal {
   display: none;
   width: 425px;
-  height: 100px;
+  height: 125px;
   position: fixed;
-  top: 35%;
+  top: 34%;
   left: 0;
   right: 0;
   margin: auto;
@@ -151,4 +151,5 @@ info-bar {
   background-color: #ffffffde;
   padding: 0 15px;
   justify-content: center;
+  align-items: center;
 }
