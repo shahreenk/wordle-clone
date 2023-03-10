@@ -140,7 +140,7 @@ info-bar {
 .result-modal {
   display: none;
   width: 425px;
-  height: 92px;
+  height: 100px;
   position: fixed;
   top: 35%;
   left: 0;
